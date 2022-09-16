@@ -1,0 +1,11 @@
+name: app_stockvis
+title:
+username:
+account: armuchang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7030405
+bundleId: 6307717
+url: https://armuchang.shinyapps.io/app_stockvis/
+when: 1663302425.31799
+lastSyncTime: 1663302425.31801
